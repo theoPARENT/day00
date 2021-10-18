@@ -1,0 +1,197 @@
+
+    1  sudo apt-get install phpstorm
+    2  sudo snap install phpstorm
+    3  sudo snap install phpstorm --classic
+    4  sudo apt-get update
+    5  sudo apt-get install grub-customizer 
+    6  grub-customizer 
+    7  cd Téléchargements/
+    8  ls
+    9  cd Grub2-theme\ CyberRe\ 1.0.0/
+   10  ls
+   11  cd CyberRe\ 1.0.0/
+   12  ls
+   13  sh install.sh 7
+   14  sh install.sh
+   15  sudo sh install.sh 
+   16  grub-customizer 
+   17  cd Téléchargements/
+   18  ls
+   19  cd Grub2-theme\ CyberRe\ 1.0.0/
+   20  ls
+   21  cd CyberRe\ 1.0.0/
+   22  ls
+   23  sudo ./install.sh 
+   24  grub-customizer 
+   25  sudoa apt-get install thop
+   26  sudoa apt-get install htop
+   27  sudo apt-get install htop
+   28  sudo apt-get install php
+   29  sudo apt-get install composer
+   30  sudo apt-get install chrome-gnome-shell
+   31  sudo snap install discord
+   32  unzip 
+   33  unzip -p Téléchargements/covers.zip 
+   34  ;59R1;1;120;120;1;0x65;1;9c1;1;120;120;1;0x65;1;9c65;1;9c65;1;9c1;1;120;120;1;0x65;1;9c65;1;9c65;1;9c65;1;9c1;1;120;120;1;0x1;1;120;120;1;0x65;1;9c1;1;120;120;1;0x65;1;9c
+   35  tar -xvf Téléchargements/cover.zip
+   36  unzip Téléchargements/covers.zip -d Téléchargements/covers
+   37  ls
+   38  cd Téléchargements/
+   39  ls
+   40  cd covers/
+   41  ls
+   42  cd cov
+   43  cd covers/
+   44  ls
+   45  cd
+   46  git -v
+   47  git --version 
+   48  mkdir day00
+   49  cd day00/
+   50  git init day00
+   51  ls
+   52  cd day00/
+   53  ls
+   54  ls -l
+   55  mkdir covers
+   56  cd covers/
+   57  cd
+   58  cd day00/day00/
+   59  ls
+   60  mkdir covers/Constructeurs
+   61  mkdir covers/Constructeurs/Sony
+   62  mkdir covers/Constructeurs/Nintendo
+   63  mkdir covers/Constructeurs/Microsoft
+   64  mkdir covers/Constructeurs/Sega
+   65  mkdir covers/Constructeurs/Sony/Consoles
+   66  git push -u origin master
+   67  git push -u master
+   68  git push -u origin/master
+   69  git push -u origin
+   70  git add
+   71  git add .
+   72  ls
+   73  git add --all
+   74  ls
+   75  git commit -m 'First Commit'
+   76  git config --global user.email 'theoparent71@gmail.com'
+   77  git config --global user.name "theo"
+   78  ls
+   79  git commit -m 'First Commit'
+   80  ls
+   81  ls -a
+   82  git add --all
+   83  ls
+   84  git remote add origin git@theoparent71@gmail.com:theoPARENT/day00
+   85  git push -u origin master
+   86  git status
+   87  vim test
+   88  sudo apt-get install vim
+   89  sudo nano test.txt
+   90  ls
+   91  git add --all
+   92  git status
+   93  git commit -m "First Commit"
+   94  git push origin master
+   95  git push -u origin master
+   96  git push origin master
+   97  git status
+   98  git branch
+   99  git remote 
+  100  git push
+  101  git push --set-upstream origin master
+  102  git push
+  103  git push origin master
+  104  git remote
+  105  git commit
+  106  git remote remove
+  107  git remote remove origin
+  108  git remote
+  109  git remote add origin https://github.com/theoPARENT/day00.git
+  110  git push origin master
+  111  ls
+  112  ls covers/Constructeurs/Sony
+  113  mkdir covers/Constructeurs/Sony/Consoles/PS4
+  114  mkdir covers/Constructeurs/Sony/Consoles/PS5
+  115  mkdir covers/Constructeurs/Sony/Consoles portables
+  116  mkdir covers/Constructeurs/Sony/Consoles_portables
+  117  mkdir covers/Constructeurs/Nintendo/Consoles
+  118  mkdir covers/Constructeurs/Nintendo/Consoles/Gamecube
+  119  mkdir covers/Constructeurs/Nintendo/Consoles_portables
+  120  mkdir covers/Constructeurs/Nintendo/Consoles_portables/Game_boy
+  121  mkdir covers/Constructeurs/Microsoft/Consoles
+  122  mkdir covers/Constructeurs/Microsoft/Consoles/Xbox
+  123  mkdir covers/Constructeurs/Microsoft/Consoles/Xbox360
+  124  mkdir covers/Constructeurs/Sega/Consoles
+  125  mkdir covers/Constructeurs/Sega/Consoles/Dreamcast
+  126  ls
+  127  cd covers/
+  128  ls
+  129  cd Constructeurs/
+  130  ls
+  131  cd S
+  132  cd Sega/
+  133  ls
+  134  cd Consoles/
+  135  ls
+  136  cd 
+  137  mv Téléchargements/covers/covers/
+  138  mv Téléchargements/covers/covers/ps4_fifa14.jpg day00/day00/covers/Constructeurs/Sony/Consoles/PS4/
+  139  mv Téléchargements/covers/covers/playstation_4.unchartedthelostlegacy.jpg day00/day00/covers/Constructeurs/Sony/Consoles/PS4/
+  140  mv Téléchargements/covers/covers/playstation_5.farcry6.jpg day00/day00/covers/Constructeurs/Sony/Consoles/PS5/
+  141  mv Téléchargements/covers/covers/gc_supermariosunshine.jpg day00/day00/covers/Constructeurs/Nintendo/Consoles/Gamecube/
+  142  mv Téléchargements/covers/covers/gb_pokemonblue_eu.jpg day00/day00/covers/Constructeurs/Nintendo/Consoles_portables/Game_boy/
+  143  mv Téléchargements/covers/covers/ day00/day00/covers/Constructeurs/Nintendo/Consoles_portables/Game_boy/
+  144  mv Téléchargements/covers/covers/playstation_4.assassinscreedodyssey.jpg day00/day00/covers/Constructeurs/Sony/Consoles/
+  145  mv Téléchargements/covers/covers/playstation_4.watchdogs2.jpg day00/day00/covers/Constructeurs/Sony/Consoles/
+  146  mv Téléchargements/covers/covers/playstation_5.assassinscreedvalhalla.jpg day00/day00/covers/Constructeurs/Sony/Consoles/PS5
+  147  mv Téléchargements/covers/covers/playstation_5.residentevilvillage_.jpg day00/day00/covers/Constructeurs/Sony/Consoles/PS5
+  148  mv Téléchargements/covers/covers/gameboy.pokmonred.jpg day00/day00/covers/Constructeurs/Nintendo/Consoles_portables/Game_boy/
+  149  ls Téléchargements/covers/covers/
+  150  mkdir day00/day00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Bay_Color
+  151  mv Téléchargements/covers/covers/gbc_pokemongold.jpg day00/day00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Bay_Color/
+  152  mv Téléchargements/covers/covers/gc_mariokartdoubledash.jpg day00/day00/covers/Constructeurs/Nintendo/Consoles/Gamecube/
+  153  mv Téléchargements/covers/covers/*xbox* day00/day00/covers/Constructeurs/Microsoft/Consoles/Xbox/
+  154  ls day00/day00/covers/Constructeurs/Microsoft/Consoles/Xbox
+  155  mv day00/day00/covers/Constructeurs/Microsoft/Consoles/Xbox/xbox_360.fableiii.jpg day00/day00/covers/Constructeurs/Microsoft/Consoles/Xbox360
+  156  mv Téléchargements/covers/covers/*x360* day00/day00/covers/Constructeurs/Microsoft/Consoles/Xbox360/
+  157  mv Téléchargements/covers/covers/*dc_* day00/day00/covers/Constructeurs/Sega/Consoles/Dreamcast/
+  158  ls Téléchargements/covers/covers/
+  159  mv Téléchargements/covers/covers/*gb* day00/day00/covers/Constructeurs/Nintendo/Consoles_portables/Game_boy/
+  160  cd day00/day00/covers/Constructeurs/
+  161  ls
+  162  cd Microsoft/
+  163  ls
+  164  cd Consoles/
+  165  ls
+  166  cd Xbox
+  167  ls
+  168  cd ../Xbox360/
+  169  ls
+  170  cd
+  171  cd day00/day00/
+  172  ls -a
+  173  git add -all
+  174  git add --all
+  175  git commit -m "Ajout et tri de tous les fichiers"
+  176  git status
+  177  git push origin master
+  178  git config --global user.password
+  179  git config --global user.signingKey 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
+  180  git status
+  181  gitlog
+  182  git log
+  183  ls
+  184  rm portables/
+  185  rmdir portables/
+  186  cat test.txt 
+  187  rm test.txt 
+  188  ls
+  189  rm test.txt 
+  190  ls
+  191  cd covers/
+  192  ls
+  193  vim commandes.txt
+  194  ls
+  195  history 
+  196  history >> commandes.txt 
